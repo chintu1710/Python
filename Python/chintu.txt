@@ -1,0 +1,3 @@
+Line 2 again create the file with same name.
+line 3 test of next line
+Line3 test data by "a" mode
